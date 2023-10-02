@@ -1,5 +1,3 @@
-import java.io.*;
-
 public class Driver {
 	public static void main(String[] args) {
 		double[] c1 = { 6, 0, 0, 5 };
